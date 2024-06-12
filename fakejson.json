@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne",
+    "surname": "Graham",
+    "email": "Sincere@april.biz",
+    "regDate": [
+      "programming",
+      "sport"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "surname": "Doe",
+    "email": "Sincere@april.biz",
+    "regDate": [
+      "music",
+      "art"
+    ]
+  }
+]
