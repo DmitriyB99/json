@@ -4,19 +4,21 @@
     "name": "Leanne",
     "surname": "Graham",
     "email": "Sincere@april.biz",
-    "regDate": [
+    "skills": [
       "programming",
       "sport"
-    ]
+    ],
+    "regDate": "01.01.24"
   },
   {
     "id": 2,
     "name": "John",
     "surname": "Doe",
     "email": "Sincere@april.biz",
-    "regDate": [
+    "skills": [
       "music",
       "art"
-    ]
+    ],
+    "regDate": "02.02.24"
   }
 ]
